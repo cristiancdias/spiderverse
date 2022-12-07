@@ -32,7 +32,7 @@
 .s-wrapper .s-main-content {
   height: 100%;
   width: 100%;
-  background-color: gray;
+  /* background-color: gray; */
   padding-left: 130px;
   position: relative;
 }
