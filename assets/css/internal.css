@@ -81,3 +81,8 @@
   display: flex;
   flex-direction: row;
 }
+
+.s-gallery__img {
+  width: 300px;
+  height: 195px;
+}
